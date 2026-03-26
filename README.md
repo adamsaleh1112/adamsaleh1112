@@ -14,6 +14,6 @@ I mainly work in swift for building my apps, but am also experienced in:
 
 📷 [Videography, Photography](https://adamflicks.com/)
 
-I'm currently working on [Varsity](myLib/varsity), an app which fixes the problem of student-school disconnection, aiming to bring school sports news to the students and fans as cleanly and easily as possible.
+I'm currently working on [Varsity](https://github.com/adamsaleh1112/varsity), an app which fixes the problem of student-school disconnection, aiming to bring school sports news to the students and fans as cleanly and easily as possible.
 
 If you have any questions, feel free! adamsalehdev@gmail.com 📩
