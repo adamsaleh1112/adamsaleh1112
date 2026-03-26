@@ -6,9 +6,13 @@ Not chasing trends. I’m want to build things that last and bring changes to pe
 
 I mainly work in swift for building my apps, but am also experienced in:
 
-∙ Figma, Adobe Suite, Framer, Procreate
+👨‍💻 Python, Java, React
 
-∙ Python, Java, React
+🎨 Figma, Illustrator, Photoshop, Procreate
+
+🎬 Premiere Pro, DaVinchi Resolve, After Effects
+
+📷 Videography, Photography
 
 I'm currently working on Varsity, an app which fixes the problem of student-school disconnection, aiming to bring school sports news to the students and fans as cleanly and easily as possible.
 
