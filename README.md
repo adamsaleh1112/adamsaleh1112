@@ -16,4 +16,4 @@ I mainly work in swift for building my apps, but am also experienced in:
 
 I'm currently working on Varsity, an app which fixes the problem of student-school disconnection, aiming to bring school sports news to the students and fans as cleanly and easily as possible.
 
-If you have any questions, feel free! adamsalehdev@gmail.com
+If you have any questions, feel free! adamsalehdev@gmail.com 📩
