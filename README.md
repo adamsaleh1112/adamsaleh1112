@@ -2,7 +2,7 @@
 
 I’m Adam, an iOS developer who builds things that actually matter to me.
 
-Not chasing trends. I’m want to build things that last and bring changes to people's lives, no matter how small.
+Not chasing trends. I want to build things that last and bring changes to people's lives, no matter how small.
 
 I mainly work in swift for building my apps, but am also experienced in:
 
