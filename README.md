@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 I’m Adam, an iOS developer who builds things that actually matter to me.
 
