@@ -6,7 +6,7 @@ Not chasing trends. I’m want to build things that last and bring changes to pe
 
 I mainly work in swift for building my apps, but am also experienced in:
 
-👨‍💻 Python, Java, React
+👨‍💻 Python, Java, React, HTML, CSS
 
 🎨 Figma, Illustrator, Photoshop, Procreate
 
