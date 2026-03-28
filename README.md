@@ -1,4 +1,4 @@
-## What it do 👋
+## What it do
 
 I’m Adam, an iOS developer who builds things that actually matter to me.
 
