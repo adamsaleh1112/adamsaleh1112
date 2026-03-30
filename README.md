@@ -16,5 +16,5 @@ I want to build things that bring changes to people's lives, no matter how small
 
 - 💻 Dev Website (Coming Soon)
 - 🎥 [Creative Portfolio](https://adamflicks.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/adam-saleh-a7760a251/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adamsaleh08/)
 - 📱 [Instagram](https://www.instagram.com/adamflicks/)
