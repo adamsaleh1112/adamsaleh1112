@@ -1,10 +1,10 @@
-# Hello 👋
+## Hello 👋
 
 I'm Adam
 
 I want to build things that bring changes to people's lives, no matter how small. I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh1112/varsity), an app which fixes the problem of student-school disconnection, aiming to bring school sports news to the students and fans as cleanly and easily as possible.
 
-## `$ whoami`
+### `$ whoami`
 
 - 📍 Based in South Florida
 - 💻 Founder of Clarify — AI-powered article reader
@@ -12,7 +12,7 @@ I want to build things that bring changes to people's lives, no matter how small
 - 🎯 Interested in all things tech and media
 - 🎬 Sports Photographer and Videographer
 
-## `$ ping`
+### `$ ping`
 
 - 💻 Dev Website (Coming Soon)
 - 🎥 [Creative Portfolio](https://adamflicks.com/)
@@ -27,19 +27,17 @@ I want to build things that bring changes to people's lives, no matter how small
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 ### `$ frameworks & libraries`
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## `$ tools`
+### `$ tools`
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
