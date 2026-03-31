@@ -10,7 +10,7 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
   </a>
 </p>
 
-### `$ whoami`
+### `$ who am i`
 
 - Based in South Florida
 - iOS developer making useful apps
