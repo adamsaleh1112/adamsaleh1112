@@ -25,6 +25,7 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 
 [![Email](https://img.shields.io/badge/email-242938?style=for-the-badge&logo=gmail)](mailto:adamsalehdev@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/adamsaleh08/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adamflicks/)
 
 
 ### `$ programming languages`
