@@ -12,18 +12,18 @@ I want to build things that bring changes to people's lives, no matter how small
 
 ### `$ whoami`
 
-- 📍 Based in South Florida
-- 💻 Founder of Clarify — AI-powered article reader
-- 🧠 iOS developer making useful apps
-- 🎯 Interested in all things tech and media
-- 🎬 Sports Photographer and Videographer
+- Based in South Florida
+- Founder of Clarify — AI-powered article reader
+- iOS developer making useful apps
+- Interested in all things tech and media
+- Sports Photographer and Videographer
 
 ### `$ ping`
 
-- 💻 Dev Website (Coming Soon)
-- 🎥 [Creative Portfolio](https://adamflicks.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/adamsaleh08/)
-- 📱 [Instagram](https://www.instagram.com/adamflicks/)
+- Dev Website (Coming Soon)
+- [Creative Portfolio](https://adamflicks.com/)
+- [LinkedIn](https://www.linkedin.com/in/adamsaleh08/)
+- [Instagram](https://www.instagram.com/adamflicks/)
 
 
 ### `$ programming languages`
