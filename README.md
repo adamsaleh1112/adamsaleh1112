@@ -7,9 +7,9 @@ I want to build things that bring changes to people's lives, no matter how small
 ## `$ whoami`
 
 - 📍 Based in South Florida
-- 💻 Founder of Clarify — an AI-powered reading app built for real understanding
-- 🧠 Builder who turns ideas into actual products (iOS, backend, full-stack)
-- 🎯 Interested in tech, media, and creating things that actually matter
+- 💻 Founder of Clarify — AI-powered article reader
+- 🧠 iOS developer making useful apps
+- 🎯 Interested in all things tech and media
 - 🎬 Sports Photographer and Videographer
 
 ## `$ ping`
