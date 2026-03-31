@@ -20,7 +20,6 @@ I want to build things that bring changes to people's lives, no matter how small
 
 ### `$ ping`
 
-- Dev Website (Coming Soon)
 - [Creative Portfolio](https://adamflicks.com/)
 - [LinkedIn](https://www.linkedin.com/in/adamsaleh08/)
 - [Instagram](https://www.instagram.com/adamflicks/)
