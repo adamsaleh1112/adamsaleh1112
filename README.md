@@ -13,10 +13,9 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 ### `$ whoami`
 
 - Based in South Florida
-- Founder of Clarify — AI-powered article reader
 - iOS developer making useful apps
 - Interested in all things tech and media
-- Sports Photographer and Videographer
+- Sports photographer and videographer
 
 ### `$ ping`
 
