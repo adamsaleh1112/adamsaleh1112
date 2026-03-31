@@ -35,7 +35,7 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### `$ frameworks-libraries-tools`
+### `$ frameworks-libraries`
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -44,11 +44,15 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=windsurf&logoColor=fff)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor)
+
+### `$ tools`
+
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
-  
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=windsurf&logoColor=fff)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor)
+
 <details>
   <summary>GitHub Profile Stats</summary>
   <br/>
