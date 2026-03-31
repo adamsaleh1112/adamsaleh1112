@@ -42,3 +42,18 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+<details>
+  <summary>GitHub Profile Stats</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamsaleh1112&show_icons=true&theme=tokyonight&count_private=true" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adamsaleh1112&layout=compact&theme=tokyonight" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamsaleh1112&theme=tokyonight" />
+  </p>
+  <br/>
+</details>
