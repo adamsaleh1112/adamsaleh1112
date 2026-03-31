@@ -4,6 +4,12 @@ I'm Adam
 
 I want to build things that bring changes to people's lives, no matter how small. I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh1112/varsity), an app which fixes the problem of student-school disconnection, aiming to bring school sports news to the students and fans as cleanly and easily as possible.
 
+<p align="center">
+  <a href="https://github.com/adamsaleh1112/varsity">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+  </a>
+</p>
+
 ### `$ whoami`
 
 - 📍 Based in South Florida
