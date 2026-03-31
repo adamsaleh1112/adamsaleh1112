@@ -27,7 +27,7 @@ I want to build things that bring changes to people's lives, no matter how small
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 ### `$ frameworks & libraries`
 
@@ -36,7 +36,7 @@ I want to build things that bring changes to people's lives, no matter how small
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB??style=flat-square&logo=react&logoColor=white)
 
 ### `$ tools`
 
