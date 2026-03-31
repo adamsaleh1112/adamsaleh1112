@@ -54,7 +54,7 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor)
 
 <details>
-  <summary>### `$ GitHub Profile Stats`</summary>
+  <summary>GitHub Profile Stats</summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamsaleh1112&show_icons=true&theme=tokyonight&count_private=true" />
