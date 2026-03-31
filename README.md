@@ -10,18 +10,14 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
   </a>
 </p>
 
-### `$ who am i`
+### `$ who-am-i`
 
 - Based in South Florida
 - iOS developer making useful apps
 - Interested in all things tech and media
 - Sports photographer and videographer
 
-### `$ ping`
-
-- [Creative Portfolio](https://adamflicks.com/)
-- [LinkedIn](https://www.linkedin.com/in/adamsaleh08/)
-- [Instagram](https://www.instagram.com/adamflicks/)
+### `$ ping-me`
 
 [![Email](https://img.shields.io/badge/email-242938?style=for-the-badge&logo=gmail)](mailto:adamsalehdev@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/adamsaleh08/)
@@ -29,7 +25,7 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/adamsaleh1112/)
 
 
-### `$ programming languages`
+### `$ programming-languages`
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,7 +35,7 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### `$ frameworks & libraries`
+### `$ frameworks-libraries-tools`
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -48,7 +44,11 @@ I'm an iOS developer currently working on [Varsity](https://github.com/adamsaleh
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
+![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=windsurf&logoColor=fff)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+  
 <details>
   <summary>GitHub Profile Stats</summary>
   <br/>
